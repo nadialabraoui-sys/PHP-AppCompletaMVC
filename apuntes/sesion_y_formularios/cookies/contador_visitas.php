@@ -9,4 +9,4 @@ if(!isset($_COOKIE['visitas'])) {
 		setcookie('visitas', $visitas, time() + 3600 * 24);
 	echo "<h1> Bienvenido por $visitas vez </h1>";
 }
-echo "<a href="borrarcookie.php?true">Borrar Cookies</a>";
+echo"hola";
