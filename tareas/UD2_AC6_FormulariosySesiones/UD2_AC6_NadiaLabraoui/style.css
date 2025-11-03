@@ -1,0 +1,107 @@
+/* ====== Estilo base ====== */
+body {
+    font-family: "Poppins", Arial, sans-serif;
+    background: linear-gradient(135deg, #74b9ff, #a29bfe);
+    color: #333;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ====== Título ====== */
+h1 {
+    margin-bottom: 1.5rem;
+    color: #fff;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* ====== Formulario ====== */
+form {
+    background-color: #ffffffcc;
+    backdrop-filter: blur(4px);
+    padding: 2rem 2.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+/* ====== Etiquetas ====== */
+label {
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    color: #2d3436;
+}
+
+/* ====== Campos ====== */
+input[type="text"],
+input[type="password"] {
+    margin-top: 0.3rem;
+    padding: 0.7rem 1rem;
+    border: 1px solid #dcdde1;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    outline: none;
+    border-color: #0984e3;
+    box-shadow: 0 0 0 3px rgba(9, 132, 227, 0.2);
+}
+
+/* ====== Botón ====== */
+input[type="submit"] {
+    background-color: #0984e3;
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: backg
+}
+        /* Contenedor general del mensaje */
+div {
+    background-color: #ffffffcc;
+    backdrop-filter: blur(4px);
+    padding: 2rem 2.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 320px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* Mensaje de error */
+div p {
+    color: #d63031;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+/* Enlace con estilo de botón */
+div a {
+    display: inline-block;
+    background-color: #0984e3;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 0.5rem;
+    transition: background-color 0.25s ease, transform 0.1s ease;
+}
+
+div a:hover {
+    background-color: #74b9ff;
+    transform: scale(1.03);
+}
+
+
