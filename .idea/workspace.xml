@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abb0711c-7098-4a5f-aa50-d2e6aea6d0e9" name="Changes" comment="03-11-25">
+      <change afterPath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/calculos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/cookies/contador_visitas.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/cookies/contador_visitas2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/micro_ejercicios_validacion/ejerciciosValidacion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/mitiendaonline/nadia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/mitiendaonline/phpinfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/mitiendaonline/random.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/.idea/sesion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/cookies/borrarcookie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/cookies/contador_visitas.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/formEnUno/form_en_uno.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/formEnUno/principal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/formularioSimple/bienvenido.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/formularioSimple/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/formularioSimple/formulario.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/sesion_y_formularios/formularioSimple/login_falso.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud1/condicionales.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud1/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud1/tipo_datos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/Cliente.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/Persona.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/arrays1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/arrays2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/break.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/enviador.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/factorial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/foreach_modificar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/funciones_como_argumentos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/funciones_paso_valor_referencia.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/globalServer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/potencias.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/requerido.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/requerir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apuntes/ud2/sumaArray.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD2_AC5_Cookies/src/visitaApp.php" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD2_AC5_Cookies/src/visitaApp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/calculos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/destino.php" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/destino.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/ecuacion.php" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/ecuacion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/(opt) UD2_AC_Validaciones/cuatro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/(opt) UD2_AC_Validaciones/dos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/(opt) UD2_AC_Validaciones/tres.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/(opt) UD2_AC_Validaciones/uno.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/.idea/UD2_AC3_Nadia_Labraoui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/Acciones.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/Ayuda.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/Bailar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/Hobby.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/Tejer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/Tiempo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/autoloader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC3_Trabajando_con_clases/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/Acciones.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/Bailar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/Hobby.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/archivoImagenes/Cambio de divisa.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/archivoImagenes/DAW_UD02_ACT1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/destino.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC4_Formularios/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC5_Cookies/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC5_Cookies/src/idioma.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC5_Cookies/src/visitaApp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/calculos.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/destino.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/ecuacion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/src/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AC6_FormulariosySesiones/UD2_AC6_NadiaLabraoui/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AE_IntroduccionPHP/UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD2_AE_IntroduccionPHP/UD2_AE_NadiaLabraoui_IntroducciónPHP_B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD5_AC5_Cookies/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD5_AC5_Cookies/src/idioma.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD5_AC5_Cookies/src/visita_app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tareas/UD5_AC5_Cookies/styles.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/clase" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nadialabraoui-sys&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nadialabraoui-sys/clase.git&quot;,
+    &quot;accountId&quot;: &quot;64ecab97-00f1-45b4-862a-fe9676cdc984&quot;
+  }
+}</component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../php/php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33Ta0aYZgMCEkz0KTC31Ru6RsvI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PHP Script.Ayuda.php.executor": "Run",
+    "PHP Script.UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php.executor": "Run",
+    "PHP Script.destino.php.executor": "Debug",
+    "PHP Script.index.php.executor": "Run",
+    "PHP Script.main.php.executor": "Run",
+    "PHP Script.pruebaMain.php.executor": "Run",
+    "PHP Script.resolucion.php.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Program Files/Ampps/www",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "php.override.implement.member.chooser.php.doc": "NONE",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\Ampps\www\ud2\entregar\AC3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Program Files\Ampps\www\clase\tareas\UD2_AC6_FormulariosySesiones\UD2_AC6_NadiaLabraoui" />
+      <recent name="E:\Program Files\Ampps\www\clase\tareas\UD2_AC6_FormulariosySesiones\UD2_AC6_NadiaLabraoui\src" />
+      <recent name="E:\Program Files\Ampps\www\tareas\UD2_AC5_Cookies\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ud2/entregar/UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
+        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abb0711c-7098-4a5f-aa50-d2e6aea6d0e9" name="Changes" comment="" />
+      <created>1759343293646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759343293646</updated>
+      <workItem from="1759343295539" duration="4606000" />
+      <workItem from="1759500289411" duration="5219000" />
+      <workItem from="1759943742656" duration="5643000" />
+      <workItem from="1760105700701" duration="6441000" />
+      <workItem from="1760364801888" duration="6000" />
+      <workItem from="1760371723995" duration="6584000" />
+      <workItem from="1760450616072" duration="8966000" />
+      <workItem from="1760551904941" duration="5167000" />
+      <workItem from="1760969499173" duration="50000" />
+      <workItem from="1761316790537" duration="87000" />
+      <workItem from="1761317476250" duration="3231000" />
+      <workItem from="1761585309776" duration="20000" />
+      <workItem from="1761591433187" duration="630000" />
+      <workItem from="1761750578005" duration="601000" />
+      <workItem from="1761769129926" duration="1556000" />
+      <workItem from="1761935371175" duration="1079000" />
+      <workItem from="1762193398832" duration="3261000" />
+      <workItem from="1762268657230" duration="3135000" />
+      <workItem from="1762271824814" duration="7706000" />
+    </task>
+    <task id="LOCAL-00001" summary="03-11-25">
+      <option name="closed" value="true" />
+      <created>1762196653407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762196653407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="03-11-25">
+      <option name="closed" value="true" />
+      <created>1762196725380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762196725380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="03-11-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="03-11-25" />
+  </component>
+</project>
