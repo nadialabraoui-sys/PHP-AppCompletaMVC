@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb0711c-7098-4a5f-aa50-d2e6aea6d0e9" name="Changes" comment="05-11-25">
-      <change afterPath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/Mailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="abb0711c-7098-4a5f-aa50-d2e6aea6d0e9" name="Changes" comment="10-11-25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/www.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/www.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/AnexoIV_NaaN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/Mailer.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +24,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="composer.json" />
+        <option value="HTML File" />
         <option value="PHP File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,50 +63,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "PHP Script.Ayuda.php.executor": "Run",
-    "PHP Script.UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php.executor": "Run",
-    "PHP Script.destino.php.executor": "Debug",
-    "PHP Script.index.php.executor": "Run",
-    "PHP Script.mailer.php.executor": "Run",
-    "PHP Script.main.php.executor": "Run",
-    "PHP Script.pruebaMain.php.executor": "Run",
-    "PHP Script.resolucion.php.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Program Files/Ampps/www",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "php.override.implement.member.chooser.php.doc": "NONE",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;PHP Script.Ayuda.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.destino.php.executor&quot;: &quot;Debug&quot;,
+    &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.mailer.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.main.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.pruebaMain.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.resolucion.php.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Program Files/Ampps/www&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;php.override.implement.member.chooser.php.doc&quot;: &quot;NONE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Program Files\Ampps\www\ud2\entregar\AC3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Program Files\Ampps\www\clase\tareas\UD3_AC_EnviarCorreo" />
+      <recent name="E:\Program Files\Ampps\www\clase\tareas\UD3_AC_EnviarCorreo\tools" />
+      <recent name="E:\Program Files\Ampps\www\clase\tareas\UD3_AC_EnviarCorreo\public\styles" />
       <recent name="E:\Program Files\Ampps\www\clase\tareas\UD2_AC6_FormulariosySesiones\UD2_AC6_NadiaLabraoui" />
       <recent name="E:\Program Files\Ampps\www\clase\tareas\UD2_AC6_FormulariosySesiones\UD2_AC6_NadiaLabraoui\src" />
-      <recent name="E:\Program Files\Ampps\www\tareas\UD2_AC5_Cookies\src" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
-      <option name="pathToComposerJson" value="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/composer.json" />
-      <method v="2" />
-    </configuration>
     <configuration name="UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ud2/entregar/UD2_AE_NadiaLabraoui_IntroducciónPHP_A.php">
       <method v="2" />
     </configuration>
@@ -153,7 +151,9 @@
       <workItem from="1762282375461" duration="1192000" />
       <workItem from="1762369148543" duration="6360000" />
       <workItem from="1762788108927" duration="4000" />
-      <workItem from="1762793985495" duration="5817000" />
+      <workItem from="1762793985495" duration="5897000" />
+      <workItem from="1762873605894" duration="6843000" />
+      <workItem from="1762880511317" duration="941000" />
     </task>
     <task id="LOCAL-00001" summary="03-11-25">
       <option name="closed" value="true" />
@@ -195,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762375527452</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10-11-25">
+      <option name="closed" value="true" />
+      <created>1762801225417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762801225417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +213,7 @@
     <MESSAGE value="03-11-25" />
     <MESSAGE value="04-11-25" />
     <MESSAGE value="05-11-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="05-11-25" />
+    <MESSAGE value="10-11-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-11-25" />
   </component>
 </project>
