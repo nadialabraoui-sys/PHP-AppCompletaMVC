@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb0711c-7098-4a5f-aa50-d2e6aea6d0e9" name="Changes" comment="12-11-25">
+    <list default="true" id="abb0711c-7098-4a5f-aa50-d2e6aea6d0e9" name="Changes" comment="14-11-25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/Librería Comercio.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/public/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/public/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/tools/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/tools/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/tools/main.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +28,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="composer.json" />
         <option value="HTML File" />
-        <option value="PHP File" />
         <option value="CSS File" />
+        <option value="PHP File" />
+        <option value="composer.json" />
       </list>
     </option>
   </component>
@@ -49,6 +55,9 @@
       <path value="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/vendor/phpmailer/phpmailer" />
       <path value="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/vendor/composer" />
     </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -78,7 +87,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Program Files/Ampps/www&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Program Files/Ampps/www/clase/tareas/UD3_AC_BBDD_Transacciones/UD3_AC_BBDD_NadiaLabraoui/tools&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -92,6 +101,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\Ampps\www\clase\tareas\UD3_AC_BBDD_Transacciones\UD3_AC_BBDD_NadiaLabraoui\tools" />
       <recent name="E:\Program Files\Ampps\www\ud2\entregar\AC3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -154,7 +164,10 @@
       <workItem from="1762880511317" duration="941000" />
       <workItem from="1762975266138" duration="2947000" />
       <workItem from="1763053083396" duration="306000" />
-      <workItem from="1763132704719" duration="967000" />
+      <workItem from="1763132704719" duration="6347000" />
+      <workItem from="1763392395242" duration="1814000" />
+      <workItem from="1763570953061" duration="203000" />
+      <workItem from="1763572901679" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="03-11-25">
       <option name="closed" value="true" />
@@ -212,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762975315670</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="14-11-25">
+      <option name="closed" value="true" />
+      <created>1763133835546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763133835546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +245,7 @@
     <MESSAGE value="05-11-25" />
     <MESSAGE value="10-11-25" />
     <MESSAGE value="12-11-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="12-11-25" />
+    <MESSAGE value="14-11-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="14-11-25" />
   </component>
 </project>
