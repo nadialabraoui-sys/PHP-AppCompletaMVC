@@ -12,11 +12,17 @@
   </component>
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/vendor/phpmailer/phpmailer" />
-      <path value="$PROJECT_DIR$/clase/tareas/UD3_AC_EnviarCorreo/vendor/composer" />
+      <path value="$PROJECT_DIR$/EstudioPHP/EstudioPHP/vendor/composer" />
+      <path value="$PROJECT_DIR$/examen25-11/vendor/composer" />
+      <path value="$PROJECT_DIR$/AC_PatronMVC/vendor/composer" />
+      <path value="$PROJECT_DIR$/AC_PatronMVC/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/2526-DWES-UD4-AC1-NadiaLabraoui/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/2526-DWES-UD4-AC1-NadiaLabraoui/vendor/composer" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.4" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>

@@ -1,0 +1,22 @@
+{
+    "name": "nadia/aplicacioncompleta",
+    "description": "Mi aplicacion completa",
+    "require": {
+        "phpmailer/phpmailer": "^7.0",
+      "ext-pdo": "*",
+      "ext-cassandra": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nadia\\Src\\": "src/",
+          "Nadia\\Tools\\": "tools/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nadialabraoui-sys",
+            "email": "nadialabraoui@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
