@@ -1,6 +1,6 @@
 <?php
 
-class Categoria
+class CategoriasModel
 {
 
     private $db;
@@ -13,9 +13,8 @@ class Categoria
 
     public function obtenerCategorias(): array {
         try {
-            $sentencia = "select * from categorias";
-            $stmt = $this->bd->query($sentencia);
-            return $stmt->fetchAll(PDO::FETCH_OBJ);
+            $this->bd->query("SELECT * FROM categorias");
+            return $this->bd->registros();
 
         } catch (PDOException $e) {
 

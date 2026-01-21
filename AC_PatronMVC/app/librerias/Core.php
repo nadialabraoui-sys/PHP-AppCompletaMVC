@@ -11,7 +11,7 @@ formato de la url: BASE_DIR/controlador/metodo/parametro
 
 class Core{
     //controlador base o por defecto
-    protected $controladorActual = 'paginas';
+    protected $controladorActual = 'categorias';
     protected $metodoActual = 'index';
     protected $parametros = [];
     public $url = '';
@@ -20,7 +20,7 @@ class Core{
         //print_r($this->getUrl());
         $url = $this->getUrl();
 
-        //buscar en controladores si el controlador exite
+        //buscar en controladores si el controlador existe
         //if (file_exists(__DIR__.'/../app/controladores/'.
         if (isset($url) && file_exists('../app/controladores/'.
         ucwords($url[0]).'.php')){

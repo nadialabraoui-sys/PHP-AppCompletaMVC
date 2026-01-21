@@ -1,7 +1,8 @@
 {
     "name": "nadia/ac_mvc",
     "require": {
-        "phpmailer/phpmailer": "^7.0"
+        "phpmailer/phpmailer": "^7.0",
+      "ext-pdo": "*"
     },
     "autoload": {
         "psr-4": {

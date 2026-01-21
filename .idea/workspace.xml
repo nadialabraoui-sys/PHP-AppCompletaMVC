@@ -5,40 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af53d21e-18a3-444f-8bc5-6cd7c35feb28" name="Changes" comment="17-12-25">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/bd/gestorrestaurantes.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/config/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/controladores/Articulos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/controladores/Categoria.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/controladores/EjemploControlador.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/iniciador.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/librerias/Controlador.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/librerias/Core.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/librerias/Db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/modelos/Articulo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/modelos/Categoria.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/modelos/Persona.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/modelos/Usuario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/inc/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/inc/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/paginas/articulo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/paginas/categorias.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/paginas/ejemplo-inicio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/paginas/inicio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/public/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/public/ejemplo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AC_PatronMVC/public/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/www.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_PatronMVC/app/controladores/Categoria.php" beforeDir="false" afterPath="$PROJECT_DIR$/AC_PatronMVC/app/controladores/Categorias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_PatronMVC/app/librerias/Core.php" beforeDir="false" afterPath="$PROJECT_DIR$/AC_PatronMVC/app/librerias/Core.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_PatronMVC/app/modelos/Categoria.php" beforeDir="false" afterPath="$PROJECT_DIR$/AC_PatronMVC/app/modelos/CategoriasModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/paginas/categorias.php" beforeDir="false" afterPath="$PROJECT_DIR$/AC_PatronMVC/app/vistas/paginas/categorias.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_PatronMVC/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/AC_PatronMVC/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AC_PatronMVC/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/AC_PatronMVC/public/.htaccess" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +96,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/Program Files/Ampps/www/AC_PatronMVC/app/bd&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -201,6 +175,8 @@
       <workItem from="1768924665967" duration="8249000" />
       <workItem from="1768935849330" duration="9000" />
       <workItem from="1768935871273" duration="35000" />
+      <workItem from="1769022455391" duration="497000" />
+      <workItem from="1769024150009" duration="3957000" />
     </task>
     <servers />
   </component>
